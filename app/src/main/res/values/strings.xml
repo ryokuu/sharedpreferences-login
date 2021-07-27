@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UAS MOOP Kasus 1</string>
+    <string name="tv_register">Register</string>
+    <string name="tv_login">Login</string>
+    <string name="et_username">Username</string>
+    <string name="et_password">Password</string>
+    <string name="et_confirmpassword">Confirm Password</string>
+    <string name="tv_welcome">Welcome, </string>
+    <string name="tv_kendaraan">Kendaraan\t\t\t:</string>
+    <string name="tv_jenis">Jenis\t\t\t\t\t\t\t\t:</string>
+    <string name="btn_lihat">Lihat</string>
+    <string name="tv_judulKendaraan">TextView</string>
+    <string name="tv_engine">Cek Engine</string>
+    <string name="tv_gear">Cek Gear</string>
+</resources>
